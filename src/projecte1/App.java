@@ -2,6 +2,6 @@ package projecte1;
 
 public class App {
 	
-	//hola
+	//hola12
 
 }
